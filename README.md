@@ -81,6 +81,4 @@ The application follows the **Model-View-Controller (MVC)** pattern:
 
 ---
 
-## 📝 License
 
-This project is open-source and available under the MIT License.
